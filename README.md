@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @farrizfadhilah-Code
-- 👀 I’m interested in ...python and javascript
-- 🌱 I’m currently learning ...data science and front-end development
-- 💞️ I’m looking to collaborate on ...web scraping project
+- 👀 I’m interested in python and javascript
+- 🌱 I’m currently learning data science and front-end development
+- 💞️ I’m looking to collaborate on web scraping project
 - 📫 How to reach me ...@__farrizfadhilah
-- 😄 Pronouns: ...f a r r i z
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
